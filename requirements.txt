@@ -1,0 +1,4 @@
+# Only Flask is needed!
+# smtplib, ssl, threading, datetime — all built into Python
+
+flask==3.0.3
